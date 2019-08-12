@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frontend-api-challenge/static/css/main.65ca9caa.chunk.css",
+    "main.js": "/frontend-api-challenge/static/js/main.9d0bc706.chunk.js",
+    "main.js.map": "/frontend-api-challenge/static/js/main.9d0bc706.chunk.js.map",
+    "runtime~main.js": "/frontend-api-challenge/static/js/runtime~main.51d2e0b4.js",
+    "runtime~main.js.map": "/frontend-api-challenge/static/js/runtime~main.51d2e0b4.js.map",
+    "static/js/2.a76e6113.chunk.js": "/frontend-api-challenge/static/js/2.a76e6113.chunk.js",
+    "static/js/2.a76e6113.chunk.js.map": "/frontend-api-challenge/static/js/2.a76e6113.chunk.js.map",
+    "index.html": "/frontend-api-challenge/index.html",
+    "precache-manifest.5beccc348a26fe7e42f5e311dc0f784b.js": "/frontend-api-challenge/precache-manifest.5beccc348a26fe7e42f5e311dc0f784b.js",
+    "service-worker.js": "/frontend-api-challenge/service-worker.js",
+    "static/css/main.65ca9caa.chunk.css.map": "/frontend-api-challenge/static/css/main.65ca9caa.chunk.css.map",
+    "static/media/acorn.svg": "/frontend-api-challenge/static/media/acorn.4ee5f938.svg",
+    "static/media/squiggle_default.jpeg": "/frontend-api-challenge/static/media/squiggle_default.ca58fb5a.jpeg"
+  }
+}
